@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @tezcanTunahan
-- 👀 I’m interested in being frontend developer
-- 🌱 I’m currently learning React.js
-- 📫 How to reach me https://tunahantezcan.vercel.app/
+👋 Hi, I’m @tezcanTunahan
+📫 How to reach me http://tunahantezcan.com
+HTML // CSS // Scss // Java // JavaScript // REACT// Node // Express // NEXTJS // Redux // Git // MongoDB // NoSQL ...
 
 <!---
 tezcanTunahan/tezcanTunahan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
