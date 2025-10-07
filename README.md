@@ -1,6 +1,6 @@
 👋 Hi, I’m @tezcanTunahan
 
-📫 How to reach me http://tunahantezcan.com
+📫 How to reach me https://tunahantezcan.com
 
 HTML // CSS // Scss // Java // JavaScript // REACT// Node // Express // NEXTJS // Redux // Git // MongoDB // NoSQL ...
 
